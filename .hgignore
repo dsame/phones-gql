@@ -6,3 +6,5 @@ mongodb$
 \.DS_Store$
 \.session.vim$
 config\.json$
+\.git$
+.\git

@@ -1,3 +1,4 @@
 .hg
 dist
 node_modules
+.swp
