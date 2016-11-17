@@ -1,0 +1,8 @@
+node_modules$
+dist$
+mongodb$
+.*\.swp$
+\.tmp$
+\.DS_Store$
+\.session.vim$
+config\.json$
